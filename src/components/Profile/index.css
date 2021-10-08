@@ -1,0 +1,25 @@
+.user-profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.profile-content {
+    border: 2px solid gray;
+    border-radius: 5px;
+    
+    padding: 50px;
+}
+.label-element {
+    color: gray;
+    font-weight: bold;
+}
+.input-element {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.button{
+    margin-top: 10px;
+    margin-left: 10px;
+}
